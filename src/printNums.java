@@ -1,5 +1,5 @@
-public class nums {
-    public nums(){
+public class printNums {
+    public printNums(){
 
     }
 
